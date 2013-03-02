@@ -1,0 +1,20 @@
+{
+    "name": "christopher-s/silverstripe-link-field",
+    "description": "A new field for SilverStripe that allows for internal page and external hyperlinking.",
+    "type": "silverstripe-module",
+    "keywords": ["silverstripe", "field"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Christopher Staley",
+            "email": "christopher.staley@gmail.com"
+        },
+        {
+            "name": "Left, Right & Centre"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "3.*",
+        "silverstripe/cms": "3.*"
+    }
+}
